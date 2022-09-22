@@ -1,0 +1,8 @@
+2022-07-09T16:13:23.689433 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-07-09T16:15:01.6727235 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-07-09T16:20:06.3238889 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-07-09T16:20:13.4423506 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-07-09T16:21:06.218402 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-07-09T16:21:40.014195 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-07-09T18:21:23.4850785 404 : [{"timestamp":"2022-07-09T22:21:23.468+00:00","status":404,"error":"Not Found","message":"No message available","path":"/users/1001"}]
+2022-07-09T18:23:34.0800193 404 : [{"timestamp":"2022-07-09T22:23:34.078+00:00","status":404,"error":"Not Found","message":"No message available","path":"/users/1001"}]

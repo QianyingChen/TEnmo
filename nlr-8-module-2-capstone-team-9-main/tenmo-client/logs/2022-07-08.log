@@ -1,0 +1,9 @@
+2022-07-08T08:14:17.8615631 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-07-08T08:18:16.3389836 400 : [{"timestamp":"2022-07-08T12:18:16.306+00:00","status":400,"error":"Bad Request","message":"User registration failed.","path":"/register"}]
+2022-07-08T08:20:58.8755918 400 : [{"timestamp":"2022-07-08T12:20:58.859+00:00","status":400,"error":"Bad Request","message":"User registration failed.","path":"/register"}]
+2022-07-08T08:26:34.7266752 400 : [{"timestamp":"2022-07-08T12:26:34.715+00:00","status":400,"error":"Bad Request","message":"User registration failed.","path":"/register"}]
+2022-07-08T08:50:45.0730764 400 : [{"timestamp":"2022-07-08T12:50:45.056+00:00","status":400,"error":"Bad Request","message":"User registration failed.","path":"/register"}]
+2022-07-08T09:20:05.3466128 400 : [{"timestamp":"2022-07-08T13:20:05.333+00:00","status":400,"error":"Bad Request","message":"User registration failed.","path":"/register"}]
+2022-07-08T09:22:34.4566663 400 : [{"timestamp":"2022-07-08T13:22:34.441+00:00","status":400,"error":"Bad Request","message":"User registration failed.","path":"/register"}]
+2022-07-08T21:16:25.8145274 400 : [{"timestamp":"2022-07-09T01:16:25.795+00:00","status":400,"error":"Bad Request","message":"User registration failed.","path":"/register"}]
+2022-07-08T21:47:57.7049879 400 : [{"timestamp":"2022-07-09T01:47:57.692+00:00","status":400,"error":"Bad Request","message":"User registration failed.","path":"/register"}]
